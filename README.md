@@ -132,12 +132,10 @@
 - Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por los fundamentos de ca o por los elementos de R, L y C y el concepto de impedancia, que lo aprendido en clases se ha clarificado.
 
  ## 6. BIBLIOGRAFIA
+ 
+Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
 
-Bertha, M. (10 de diciembre de 2014). Scielo. Obtenido de http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1815-59012014000300014
 
-Electronica Unicrom. (27 de Junio de 2020). Obtenido de https://unicrom.com/bobinas-o-inductores-en-serie-y-paralelo/
-
-Reyes, C. (4 de Junio de 2020). Temas de calculo 2. Obtenido de https://temasdecalculo2.wordpress.com/2020/06/04/inductores-circuitos-electricos/
 
 
 
