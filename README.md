@@ -14,12 +14,15 @@
  **Tema:** Capitulo 15 y Capitulo 16
  
  ## 1. OBJETIVO GENERAL
- - Comprender y analizar la inductancia de los circuitos tipo RL
+ - Comprender el estudio de los fundamentos de ca además de los elementos de R, L y C, el concepto de impedancia, todo esto aplicando los conocimientos aprendidos durante clases y lo investigado previamente.
 
  ## 1.2 OBJETIVOS ESPECÍFICOS
- - Entender el origen y las reglas basicas de la inductancia dentro de los circuitos RL
- - Clasificar el estudio del inductancia
- - Comprender el significado de transitorio y su estudio dentro de amnalisis de circuitos
+- Identificar las diferencias de voltaje y corriente de circuitos con corriente directa (cd) y corriente alterna (cd).
+
+- Definir y calcular las diferencias de fase entre formas de onda cuadrada, triangular, rectangular y sinusoidal.
+
+- Calcular valores promedio y valores efectivos para formas de onda que varían en el tiempo.
+
  
  ## 2. MARCO TEÓRICO
  **CAPITULO 15**
@@ -122,9 +125,11 @@
  https://youtu.be/-Cf-sGWryD0
 
  ## 5. CONCLUSIONES
-• Al haber resuelto los ejercicios observamos la importancia que tienen los números complejos en corriente alterna y lo necesario que es poder transformarlos de varias formas según se requiera.
+- Al haber resuelto los ejercicios observamos la importancia que tienen los números complejos en corriente alterna y lo necesario que es poder transformarlos de varias formas según se requiera.
 
-• Observamos que el análisis de circuitos de corriente alterna en el dominio del tiempo puede volverse un poco complicado sin el uso del fasor ya que con este podemos analizarlo en el dominio de los fasores.
+- Observamos que el análisis de circuitos de corriente alterna en el dominio del tiempo puede volverse un poco complicado sin el uso del fasor ya que con este podemos analizarlo en el dominio de los fasores.
+
+- Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por los fundamentos de ca o por los elementos de R, L y C y el concepto de impedancia, que lo aprendido en clases se ha clarificado.
 
  ## 6. BIBLIOGRAFIA
 
