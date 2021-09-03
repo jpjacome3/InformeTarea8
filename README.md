@@ -87,6 +87,11 @@
 
 ![WhatsApp Image 2021-09-02 at 23 09 46](https://user-images.githubusercontent.com/85137954/131949739-fc62aa51-5f80-45a0-90c0-b5759df4749a.jpeg)
 
+![1](https://user-images.githubusercontent.com/84586968/131953502-c5e2e4dc-3958-4a94-9a1e-a5b65eab1281.PNG)
+![2](https://user-images.githubusercontent.com/84586968/131953503-57209b86-592d-4e6f-a8c8-17378db26d27.PNG)
+![3](https://user-images.githubusercontent.com/84586968/131953504-af8befef-490b-4136-9a4a-bceb280e5690.PNG)
+![4](https://user-images.githubusercontent.com/84586968/131953505-eaee0ac3-3616-4cc2-8b60-f71014c2fb83.PNG)
+
  **CAPITULO 16**
  
 ![5](https://user-images.githubusercontent.com/84586968/131953509-2e36de35-89c7-48be-974f-9d3dc7e97a46.PNG)
