@@ -119,6 +119,29 @@
 
 ![11](https://user-images.githubusercontent.com/84586968/131953519-71a36094-cfa5-46d9-a939-80a6e0db48e2.PNG)
 
+![WhatsApp Image 2021-09-03 at 01 01 03](https://user-images.githubusercontent.com/85137954/131958387-598d1aab-2caf-422f-838b-dbab4fd57b76.jpeg)
+
+![WhatsApp Image 2021-09-03 at 01 01 28](https://user-images.githubusercontent.com/85137954/131958396-135c23c7-51f8-437e-a08d-4e37003f0dba.jpeg)
+
+![WhatsApp Image 2021-09-03 at 01 01 57](https://user-images.githubusercontent.com/85137954/131958403-dd7c52ca-a8e5-4327-a711-7e02349146c4.jpeg)
+
+![WhatsApp Image 2021-09-03 at 01 02 25](https://user-images.githubusercontent.com/85137954/131958406-981bd3ef-a84f-419f-ad04-264481eca2eb.jpeg)
+
+![WhatsApp Image 2021-09-03 at 01 02 55](https://user-images.githubusercontent.com/85137954/131958415-14bbf445-ff17-4d8c-aae4-e0de94e1e636.jpeg)
+
+![WhatsApp Image 2021-09-03 at 01 03 34](https://user-images.githubusercontent.com/85137954/131958468-c315b7c1-334d-4318-8fef-698391e61d79.jpeg)
+
+![WhatsApp Image 2021-09-03 at 01 03 54](https://user-images.githubusercontent.com/85137954/131958472-2154ca87-c6bd-4344-9a55-55008b6cf027.jpeg)
+
+![WhatsApp Image 2021-09-03 at 01 04 20](https://user-images.githubusercontent.com/85137954/131958480-647946ee-90cf-432b-8afe-3f4256b3acae.jpeg)
+
+![WhatsApp Image 2021-09-03 at 01 04 46](https://user-images.githubusercontent.com/85137954/131958487-e819049c-36f1-4150-b2d9-5187fa08d38f.jpeg)
+
+![WhatsApp Image 2021-09-03 at 01 05 27](https://user-images.githubusercontent.com/85137954/131958493-cf22d30c-d939-4da5-ba0e-66a651dd8f1b.jpeg)
+
+
+
+
 
 
  ## 4. VIDEO
