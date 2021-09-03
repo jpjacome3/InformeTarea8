@@ -122,7 +122,7 @@
 
 
  ## 4. VIDEO
- https://youtu.be/-Cf-sGWryD0
+ 
 
  ## 5. CONCLUSIONES
 - Al haber resuelto los ejercicios observamos la importancia que tienen los números complejos en corriente alterna y lo necesario que es poder transformarlos de varias formas según se requiera.
