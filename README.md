@@ -69,8 +69,6 @@
 
 ![WhatsApp Image 2021-09-02 at 23 04 28](https://user-images.githubusercontent.com/85137954/131949633-28aba2cf-a432-4ffb-9246-4b843b9d7158.jpeg)
 
-![WhatsApp Image 2021-09-02 at 23 05 22](https://user-images.githubusercontent.com/85137954/131949635-761c3a25-db87-4320-913b-0fa2b994c9aa.jpeg)
-
 ![WhatsApp Image 2021-09-02 at 23 05 47](https://user-images.githubusercontent.com/85137954/131949638-7ba7b983-47e7-4d36-9f35-5ec81b92e373.jpeg)
 
 ![WhatsApp Image 2021-09-02 at 23 06 17](https://user-images.githubusercontent.com/85137954/131949703-1798a994-a0ed-444f-b528-69630ae96db6.jpeg)
