@@ -23,7 +23,7 @@
  
  ## 2. MARCO TEÓRICO
  **CAPITULO 15**
-
+![png (18)](https://user-images.githubusercontent.com/85137954/131953397-ba3ef789-4ddd-42cd-9a73-99b66c9265c3.png)
  
  **CAPITULO 16**
  
