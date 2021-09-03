@@ -24,7 +24,9 @@
  ## 2. MARCO TEÓRICO
  **CAPITULO 15**
 ![png (18)](https://user-images.githubusercontent.com/85137954/131953397-ba3ef789-4ddd-42cd-9a73-99b66c9265c3.png)
- 
+
+![png (19)](https://user-images.githubusercontent.com/85137954/131955826-f5cccf24-1079-4a46-ad36-b1108db6cd31.png)
+
  **CAPITULO 16**
  
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
