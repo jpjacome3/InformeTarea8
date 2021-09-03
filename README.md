@@ -1,4 +1,4 @@
-# InformeTarea8
+# Informe Tarea 8
 **Integrantes:**
 - Jordy Coyaguillo
 - Jean Jacome
